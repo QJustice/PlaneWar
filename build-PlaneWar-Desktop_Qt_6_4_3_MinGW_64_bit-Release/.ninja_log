@@ -1,0 +1,14 @@
+# ninja log v5
+2	1707	7017997390713585	PlaneWar_autogen/timestamp	cbee8765b44bb2dd
+2	1707	7017997390713585	PlaneWar_autogen/mocs_compilation.cpp	cbee8765b44bb2dd
+2	1707	7017997390713585	D:/WorkSpace/Qt Creator File/PlaneWarFiles/build-PlaneWar-Desktop_Qt_6_4_3_MinGW_64_bit-Release/PlaneWar_autogen/timestamp	cbee8765b44bb2dd
+2	1707	7017997390713585	D:/WorkSpace/Qt Creator File/PlaneWarFiles/build-PlaneWar-Desktop_Qt_6_4_3_MinGW_64_bit-Release/PlaneWar_autogen/mocs_compilation.cpp	cbee8765b44bb2dd
+1734	5275	7017997430132054	CMakeFiles/PlaneWar.dir/cmap.cpp.obj	c5c8487e1306ba64
+1760	5286	7017997430241689	CMakeFiles/PlaneWar.dir/cenemyplane.cpp.obj	2da86c4587fa914d
+1781	5296	7017997430401191	CMakeFiles/PlaneWar.dir/cbullet.cpp.obj	9eb53ee4a94b7fed
+1804	6092	7017997438254983	CMakeFiles/PlaneWar.dir/cheroplane.cpp.obj	c52a15f9f7acb7c
+1708	6199	7017997439620413	CMakeFiles/PlaneWar.dir/PlaneWar_autogen/mocs_compilation.cpp.obj	f83f8d4c4533073c
+1828	6397	7017997441623747	CMakeFiles/PlaneWar.dir/cbomb.cpp.obj	e5d62b24ac961586
+1724	6459	7017997442261584	CMakeFiles/PlaneWar.dir/main.cpp.obj	43279432deef1
+1715	7042	7017997448102096	CMakeFiles/PlaneWar.dir/cmainscene.cpp.obj	67782da65c3761ed
+7042	7305	7017997450693445	PlaneWar.exe	a4be46f5cccbecd1
